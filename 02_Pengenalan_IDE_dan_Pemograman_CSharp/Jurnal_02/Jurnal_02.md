@@ -1,4 +1,4 @@
-![image](https://github.com/user-attachments/assets/b1b7ccc0-88b2-4f58-a6c7-46d802713915)![image](https://github.com/user-attachments/assets/72184d5b-66de-4aae-8a25-b112ec332c0c)<div align="center">
+<div align="center">
 
 ### TUGAS PENDAHULUAN
 
