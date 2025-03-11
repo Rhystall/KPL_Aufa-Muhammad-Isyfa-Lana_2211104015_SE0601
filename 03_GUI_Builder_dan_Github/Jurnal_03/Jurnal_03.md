@@ -4,7 +4,7 @@
 
 ### Konstruksi Perangkat Lunak
 
-### Pertemuan 2
+### Pertemuan 3
 ### GUI Builder dan Github
 
 ![image](https://github.com/user-attachments/assets/2948daec-1e7a-4765-8f23-df638a387c87)
