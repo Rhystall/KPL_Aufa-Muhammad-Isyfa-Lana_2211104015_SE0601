@@ -1,6 +1,6 @@
 <div align="center">
 
-### TUGAS PENDAHULUAN
+### Jurnal
 
 ### Konstruksi Perangkat Lunak
 
