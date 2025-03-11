@@ -1,0 +1,14 @@
+E:\Data ITTP\Perkuliahan\Semester 6\KPL\Praktikum\Praktikum2\Modul5\Modul5\bin\Debug\net8.0\Modul5.exe
+E:\Data ITTP\Perkuliahan\Semester 6\KPL\Praktikum\Praktikum2\Modul5\Modul5\bin\Debug\net8.0\Modul5.deps.json
+E:\Data ITTP\Perkuliahan\Semester 6\KPL\Praktikum\Praktikum2\Modul5\Modul5\bin\Debug\net8.0\Modul5.runtimeconfig.json
+E:\Data ITTP\Perkuliahan\Semester 6\KPL\Praktikum\Praktikum2\Modul5\Modul5\bin\Debug\net8.0\Modul5.dll
+E:\Data ITTP\Perkuliahan\Semester 6\KPL\Praktikum\Praktikum2\Modul5\Modul5\bin\Debug\net8.0\Modul5.pdb
+E:\Data ITTP\Perkuliahan\Semester 6\KPL\Praktikum\Praktikum2\Modul5\Modul5\obj\Debug\net8.0\Modul5.GeneratedMSBuildEditorConfig.editorconfig
+E:\Data ITTP\Perkuliahan\Semester 6\KPL\Praktikum\Praktikum2\Modul5\Modul5\obj\Debug\net8.0\Modul5.AssemblyInfoInputs.cache
+E:\Data ITTP\Perkuliahan\Semester 6\KPL\Praktikum\Praktikum2\Modul5\Modul5\obj\Debug\net8.0\Modul5.AssemblyInfo.cs
+E:\Data ITTP\Perkuliahan\Semester 6\KPL\Praktikum\Praktikum2\Modul5\Modul5\obj\Debug\net8.0\Modul5.csproj.CoreCompileInputs.cache
+E:\Data ITTP\Perkuliahan\Semester 6\KPL\Praktikum\Praktikum2\Modul5\Modul5\obj\Debug\net8.0\Modul5.dll
+E:\Data ITTP\Perkuliahan\Semester 6\KPL\Praktikum\Praktikum2\Modul5\Modul5\obj\Debug\net8.0\refint\Modul5.dll
+E:\Data ITTP\Perkuliahan\Semester 6\KPL\Praktikum\Praktikum2\Modul5\Modul5\obj\Debug\net8.0\Modul5.pdb
+E:\Data ITTP\Perkuliahan\Semester 6\KPL\Praktikum\Praktikum2\Modul5\Modul5\obj\Debug\net8.0\Modul5.genruntimeconfig.cache
+E:\Data ITTP\Perkuliahan\Semester 6\KPL\Praktikum\Praktikum2\Modul5\Modul5\obj\Debug\net8.0\ref\Modul5.dll
