@@ -83,4 +83,6 @@ Saat lang nya di ubah jadi id
 ![image](https://github.com/user-attachments/assets/64b9ee44-f965-44c4-822f-d20667ad5aea)
 
 
+### Penjelasan Singkat :
+Pada kode tersebut kita mengimplementasikan Runtime Configuration untuk mengatur bahasa yang akan di tampilkan pada CLI 
 ### Link Github : https://github.com/Rhystall/kpl-runtime-configuration
