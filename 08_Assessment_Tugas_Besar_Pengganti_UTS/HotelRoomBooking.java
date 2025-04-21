@@ -52,9 +52,6 @@ public class HotelRoomBooking {
         System.out.println("===================================");
     }
 
-    public void redeemVoucher(String kode) {
-    }
-
 
     public double hitungTotalBiaya() {
         double total = hargaPerMalam * jumlahMalam;
