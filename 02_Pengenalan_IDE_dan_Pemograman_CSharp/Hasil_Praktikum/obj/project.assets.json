@@ -8,23 +8,23 @@
     "net8.0-windows7.0": []
   },
   "packageFolders": {
-    "C:\\Users\\ACER\\.nuget\\packages\\": {},
+    "C:\\Users\\User\\.nuget\\packages\\": {},
     "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages": {}
   },
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "E:\\KPL\\WinFormsApp1\\WinFormsApp1\\WinFormsApp1.csproj",
+      "projectUniqueName": "E:\\Data ITTP\\Perkuliahan\\Semester 6\\KPL\\Tubes\\Teori\\KPL_Aufa-Muhammad-Isyfa-Lana_2211104015_SE0601\\02_Pengenalan_IDE_dan_Pemograman_CSharp\\Hasil_Praktikum\\WinFormsApp1.csproj",
       "projectName": "WinFormsApp1",
-      "projectPath": "E:\\KPL\\WinFormsApp1\\WinFormsApp1\\WinFormsApp1.csproj",
-      "packagesPath": "C:\\Users\\ACER\\.nuget\\packages\\",
-      "outputPath": "E:\\KPL\\WinFormsApp1\\WinFormsApp1\\obj\\",
+      "projectPath": "E:\\Data ITTP\\Perkuliahan\\Semester 6\\KPL\\Tubes\\Teori\\KPL_Aufa-Muhammad-Isyfa-Lana_2211104015_SE0601\\02_Pengenalan_IDE_dan_Pemograman_CSharp\\Hasil_Praktikum\\WinFormsApp1.csproj",
+      "packagesPath": "C:\\Users\\User\\.nuget\\packages\\",
+      "outputPath": "E:\\Data ITTP\\Perkuliahan\\Semester 6\\KPL\\Tubes\\Teori\\KPL_Aufa-Muhammad-Isyfa-Lana_2211104015_SE0601\\02_Pengenalan_IDE_dan_Pemograman_CSharp\\Hasil_Praktikum\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
       ],
       "configFilePaths": [
-        "C:\\Users\\ACER\\AppData\\Roaming\\NuGet\\NuGet.Config",
+        "C:\\Users\\User\\AppData\\Roaming\\NuGet\\NuGet.Config",
         "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
         "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
       ],

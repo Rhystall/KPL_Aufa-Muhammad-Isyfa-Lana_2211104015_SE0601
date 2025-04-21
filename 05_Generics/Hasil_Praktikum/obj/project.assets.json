@@ -14,11 +14,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "E:\\Data ITTP\\Perkuliahan\\Semester 6\\KPL\\Praktikum\\Praktikum2\\Modul5\\Modul5\\Modul5.csproj",
+      "projectUniqueName": "E:\\Data ITTP\\Perkuliahan\\Semester 6\\KPL\\Tubes\\Teori\\KPL_Aufa-Muhammad-Isyfa-Lana_2211104015_SE0601\\05_Generics\\Hasil_Praktikum\\Modul5.csproj",
       "projectName": "Modul5",
-      "projectPath": "E:\\Data ITTP\\Perkuliahan\\Semester 6\\KPL\\Praktikum\\Praktikum2\\Modul5\\Modul5\\Modul5.csproj",
+      "projectPath": "E:\\Data ITTP\\Perkuliahan\\Semester 6\\KPL\\Tubes\\Teori\\KPL_Aufa-Muhammad-Isyfa-Lana_2211104015_SE0601\\05_Generics\\Hasil_Praktikum\\Modul5.csproj",
       "packagesPath": "C:\\Users\\User\\.nuget\\packages\\",
-      "outputPath": "E:\\Data ITTP\\Perkuliahan\\Semester 6\\KPL\\Praktikum\\Praktikum2\\Modul5\\Modul5\\obj\\",
+      "outputPath": "E:\\Data ITTP\\Perkuliahan\\Semester 6\\KPL\\Tubes\\Teori\\KPL_Aufa-Muhammad-Isyfa-Lana_2211104015_SE0601\\05_Generics\\Hasil_Praktikum\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
