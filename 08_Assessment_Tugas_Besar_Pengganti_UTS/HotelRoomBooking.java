@@ -11,6 +11,9 @@ public class HotelRoomBooking {
     private Date tanggalCheckin;
     private Date tanggalCheckout;
     private boolean statusAktif;
+    private static final int TAMBAHAN_TAMU_PER_ORANG = 100000;
+    private static final int DISKON_VOUCHER = 50000;
+
 
     public HotelRoomBooking(Pemesan pemesan, String jenisKamar, int jumlahTamu, int jumlahMalam, double hargaPerMalam,
             Date tanggalCheckin, Date tanggalCheckout, boolean statusAktif,
@@ -56,10 +59,10 @@ public class HotelRoomBooking {
     public double hitungTotalBiaya() {
         double total = hargaPerMalam * jumlahMalam;
         if (jumlahTamu > 2) {
-            total += (jumlahTamu - 2) * 100000;
+            total += (jumlahTamu - 2) * TAMBAHAN_TAMU_PER_ORANG;
         }
         if (kodeVoucher != null && kodeVoucher.length() > 3) {
-            total -= 50000;
+            total -= DISKON_VOUCHER;
         }
         if (!statusAktif) {
             total = 0;
