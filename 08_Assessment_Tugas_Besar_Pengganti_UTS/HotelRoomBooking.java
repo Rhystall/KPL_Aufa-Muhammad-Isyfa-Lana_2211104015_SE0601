@@ -33,24 +33,41 @@ public class HotelRoomBooking {
 
     public void cetakDetailPemesanan() {
         System.out.println("===== DETAIL PEMESANAN KAMAR =====");
+        cetakInfoPemesan();
+        cetakInfoKamar();
+        cetakStatusPembayaran();
+        cetakInformasiTambahan();
+        System.out.println("===================================");
+    }
+    
+    private void cetakInfoPemesan() {
         System.out.println("Nama Pemesan : " + pemesan.getNama());
         System.out.println("Jenis Kelamin: " + pemesan.getJenisKelamin());
         System.out.println("No. KTP      : " + pemesan.getNomorKTP());
         System.out.println("Telepon      : " + pemesan.getNomorTelepon());
-        System.out.println("Email        : " + pemesan.getEmail());        
+        System.out.println("Email        : " + pemesan.getEmail());
+    }
+    
+    private void cetakInfoKamar() {
         System.out.println("Jenis Kamar  : " + jenisKamar);
         System.out.println("Jumlah Tamu  : " + jumlahTamu);
         System.out.println("Jumlah Malam : " + jumlahMalam);
         System.out.println("Harga/Malam  : " + hargaPerMalam);
         System.out.println("Check-in     : " + tanggalCheckin);
         System.out.println("Check-out    : " + tanggalCheckout);
+    }
+    
+    private void cetakStatusPembayaran() {
         System.out.println("Status Aktif : " + statusAktif);
         System.out.println("Voucher      : " + kodeVoucher);
         System.out.println("Sudah Dibayar: " + sudahDibayar);
+    }
+    
+    private void cetakInformasiTambahan() {
         System.out.println("Total Biaya  : Rp " + hitungTotalBiaya());
         System.out.println("Tipe Tamu    : " + klasifikasiTamu());
-        System.out.println("===================================");
     }
+    
 
 
     public double hitungTotalBiaya() {
