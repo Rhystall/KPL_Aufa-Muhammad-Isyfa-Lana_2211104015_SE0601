@@ -1,4 +1,4 @@
-![image](https://github.com/user-attachments/assets/ab1dd852-dd8f-4f54-810b-196d3ebac56d)<div align="center">
+<div align="center">
 
 ### Konstruksi Perangkat Lunak
 
