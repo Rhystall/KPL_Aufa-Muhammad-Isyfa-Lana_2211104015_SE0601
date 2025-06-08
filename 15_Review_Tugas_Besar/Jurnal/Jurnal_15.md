@@ -26,6 +26,9 @@ Yudha Islami Sulistya, S.Kom., M.Cs.
 <div align="center">
 
 ## Jurnal
+
+</div>
+
 ### A. Membuat Project baru jurnal15_2211104015
 
 ![image](https://github.com/user-attachments/assets/8248daab-73ab-4c14-b975-7bba74805c3a)
@@ -94,6 +97,3 @@ B. Password Management
 Disini saya menggunakan SHA256 untuk menhash password.
 
 ![image](https://github.com/user-attachments/assets/7f657f08-4e21-4266-a878-e3af598d0f32)
-
-
-</div>
